@@ -8,6 +8,7 @@
     <a href="https://solved.ac/august080829">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=august080829" alt="Solved.ac 프로필">
     </a>
+      <img src="http://mazandi.herokuapp.com/api?handle=august080829&theme=warm"/>
   </p>
     <br>
   </h1>
