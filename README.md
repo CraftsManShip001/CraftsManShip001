@@ -17,10 +17,9 @@
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CraftsManShip001&layout=compact" alt="header">
     </p>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-    <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style-for-the-badge&logo=C&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?&style-for-the-badge&logo=GitHub&logoColor=white"/> 
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" /><br />
     <br>
     <br>
   </h1>
