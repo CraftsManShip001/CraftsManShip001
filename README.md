@@ -18,7 +18,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CraftsManShip001&layout=compact" alt="header">
     </p>
     <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" /><br />
     <br>
     <br>
