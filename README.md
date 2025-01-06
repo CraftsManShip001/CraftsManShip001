@@ -15,7 +15,7 @@
   <h1>
     <b>Tech Stack<br><br></b>
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CraftsManShip001&layout=compact" alt="header">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CraftsManShip001layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"/>
     </p>
     <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" /><br />
