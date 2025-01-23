@@ -12,7 +12,7 @@
   </p>
     <br>
   </h1>
-  <h1> <b>Portfolio</b>
+  <h1> <b>Velog</b>
     <br><br>
     <p align="center">
       <img src="https://velog-github-badge.vercel.app/badge/zerone001?post=3"/>
