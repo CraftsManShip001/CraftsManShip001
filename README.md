@@ -28,7 +28,9 @@
     <br>
   </h1>
   <br><br>
-  <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/> seoj080829@gmail.com
+  <p align="center">
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/> <br> seoj080829@gmail.com
+  </p>
   <br>
   <br>
 </div>
